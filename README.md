@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Capa do projeto" src="assets/rocketnews.PNG" width="20%">
+<img alt="Capa do projeto" src="assets/rocketnews.PNG" width="50%">
 </div>
 
 ## 💻 Projeto
