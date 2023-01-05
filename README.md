@@ -1,8 +1,20 @@
-# rocketnews
+<div align="center">
+<img alt="Capa do projeto" src="images/rocketnews.png" width="20%">
+</div>
 
-Desafio da rocketseat que consistiu em desenvolver página para captação de leads ou newsletter.
+## 💻 Projeto
 
+Desafio do Discover da Rocketseat onde consistiu em desenvolver uma página web simples utilizando HTML e CSS que servirá no futuro para captação de leads ou inscrição em newsletter.
 
-melhoras para o futuro:
-- *Criando uma função para o botão (ex. Exibir um alerta)*
-- *Salvar os e-mails digitados em algum banco de dados*
+## 🚀 Tecnologias
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+
+## 🔖 Layout do Projeto
+
+O layout pode ser visto através do Figma
+
+[Layout Web](https://www.figma.com/file/cXWelYowBwrYdp31GfWQmZ/DD-%2F-RocketNews-(Copy)?node-id=3%3A2&t=Ggq1hROdeeQU5Urk-0)
